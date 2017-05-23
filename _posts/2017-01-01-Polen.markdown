@@ -6,7 +6,7 @@ categories:
   - Vortrag
 description: 
 image: /img/polen.jpg
-image-sm: img/polen_small.jpg
+image-sm: /img/polen_small.jpg
 ---
 Polen
 ======

@@ -6,7 +6,7 @@ categories:
   - Vortrag
 description: 
 image: /img/indien.jpg
-image-sm: img/indien_small.jpg
+image-sm: /img/indien_small.jpg
 ---
 Indien
 ======
