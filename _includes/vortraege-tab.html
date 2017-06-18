@@ -7,7 +7,8 @@
     {% endcapture %}
     {% assign sortedCats = cats | split: ' ' | sort %}
 
-    {% for post in site.categories['Vortrag'] %}
+    {% for post in site.pages %}
+    {% if post.categories contains 'Vortrag' %}
       <li class="card">
         <a class="card__link" href="{{ post.url | prepend: site.baseurl }}">
           <div class="card__img">
@@ -22,8 +23,7 @@
           </div>
         </a>
       </li>
+    {% endif %}
     {% endfor %}
   </ul>
-
-  {% include archive-link.html %}
 </div>

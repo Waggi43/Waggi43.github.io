@@ -1,14 +1,13 @@
 ---
-layout: post
-title: "Polen"
-date: 2017-01-01
+layout: vortrag
+title: "Indien"
 categories:
   - Vortrag
 description: 
-image: /img/polen.jpg
-image-sm: /img/polen_small.jpg
+image: /img/indien.jpg
+image-sm: /img/indien_small.jpg
 ---
-Polen
+Indien
 ======
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.

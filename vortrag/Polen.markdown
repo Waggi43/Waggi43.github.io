@@ -1,14 +1,14 @@
 ---
-layout: post
-title: "Indien"
-date: 2017-03-01
+layout: vortrag
+title: "Polen"
+subtitle: "Eine Reise durch Polen"
 categories:
   - Vortrag
 description: 
-image: /img/indien.jpg
-image-sm: /img/indien_small.jpg
+image: /img/polen.jpg
+image-sm: /img/polen_small.jpg
 ---
-Indien
+Polen
 ======
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
