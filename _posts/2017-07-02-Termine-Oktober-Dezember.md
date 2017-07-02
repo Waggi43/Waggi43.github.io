@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Termine im Oktober/November"
+title: "Termine im Oktobe - Dezember"
 categories:
 description:
 image:
