@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Neue Termine"
-date:2017-07-04
 categories:
 description:
 image:/img/Blume.JPG
