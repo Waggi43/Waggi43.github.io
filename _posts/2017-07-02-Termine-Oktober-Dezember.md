@@ -4,7 +4,7 @@ title: "Neue Termine"
 categories:
 description:
 image:/img/Blume.JPG
-image-sm:
+image-sm:/img/Agra-4181k.jpg
 ---
 
 Neue Termine 2017
