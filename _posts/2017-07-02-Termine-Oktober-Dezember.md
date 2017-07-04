@@ -1,20 +1,26 @@
 ---
 layout: post
-title: "Termine im Oktobe - Dezember"
+title: "Termine im Oktober - Dezember"
 categories:
 description:
-image:Blume.JPG
+image:
 image-sm:
 ---
 
-2017-07-02-Termine im Oktober - Dezember
-========================================
+Termine im Oktober - Dezember
+=============================
 
- - 19.10.2017	Gmund		Architekt(o)ur Nordindien
+Oktober
+-------
+- 19.10.2017	Gmund		Architekt(o)ur Nordindien
 
- - 20.11.2017	Olching		Architekt(o)ur Nordindien
- - 21.11.2017	Haar		Architekt(o)ur Nordindien
- - 23.11.2017	Erdweg		Der lange Weg nach Lo
- 
- - 04.12.2017	Eichenau	Polen
+November
+--------
+- 20.11.2017	Olching		Architekt(o)ur Nordindien
+- 21.11.2017	Haar		Architekt(o)ur Nordindien
+- 23.11.2017	Erdweg		Der lange Weg nach Lo
+
+Dezember
+--------
+- 04.12.2017	Eichenau	Polen
  
