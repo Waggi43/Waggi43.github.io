@@ -3,7 +3,7 @@ layout: post
 title: "Termine im Oktobe - Dezember"
 categories:
 description:
-image:
+image:Blume.JPG
 image-sm:
 ---
 
