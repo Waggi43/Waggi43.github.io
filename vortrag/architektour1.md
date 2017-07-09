@@ -6,8 +6,8 @@ categories:
   - Vortrag
 description: 
 image: /img/Agra 4181k
-image: /img/Palitaqna-G-2046k
-image-sm: /img/Palitaqna-G2003k
+image: /img/Palitaqna-G-2046k.jpg
+image-sm: /img/Palitaqna-G2003k.jpg
 ---
 Architekt(o)ur Nordindien - Teil 1
 ==================================
