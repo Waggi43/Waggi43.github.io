@@ -1,5 +1,5 @@
 # Site settings
-email: test
+email: g_schwenk@yahoo.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -14,9 +14,9 @@ twitter_username:
 default_img: 
 
 # Profile settings
-name: Max Mustermann
+name: Gerhard Schwenk
 profile_img: /img/profil.jpg
-profile: "<h3>Diavorträge Max Mustermann</h3><i>Eine Reise um die Welt in Bildern</i>"
+profile: "<h3>Diavorträge Gerhard Schwenk</h3><i>Eine Reise um die Welt in Bildern</i>"
 social:
   github: 
 
@@ -31,4 +31,4 @@ sass:
   style: compressed
 
 # Gems
-gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+plugins: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
