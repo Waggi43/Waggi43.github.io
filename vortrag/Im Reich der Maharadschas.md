@@ -16,7 +16,6 @@ image-sm: /img/indien2/udaipur2.jpg
 
 *Digitale Entdeckungsreise durch den Norden Indiens*
 
-{% render_time page rendered at: %}
 
  Monumentale Wehranlagen, prunkvolle Gemächer und stilvolle Malereien verbinden sich in
 Künstlerischer Vollendung in den märchenhaften Palästen der Rajas im Norden Indiens. 
