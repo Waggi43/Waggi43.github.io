@@ -1,0 +1,14 @@
+{% assign images = include.images | split:"," %}
+{% assign iMax = include.columns | minus: 1 %}
+<p class="gallery">
+    {% for i in (0..{{iMax}}) %}
+        {% if i == 0 %}
+            {% assign class = "left" %}
+        {% elsif i == iMax %}
+            {% assign class = "right" %}
+        {% else %}
+            {% assign class = "inner" %}
+        {% endif %}
+        <img src="{{images[i]}}" class="img-{{include.columns}}-col {{class}}"/>
+    {% endfor %}
+</p>
