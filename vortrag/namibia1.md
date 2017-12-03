@@ -1,6 +1,6 @@
 ---
 layout: vortrag
-title: "Namibia Teil 1"
+title: "Namibia Teil 1<br/>&nbsp;"
 subtitle: 
 categories:
   - Vortrag
