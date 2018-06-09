@@ -1,20 +1,28 @@
 ---
 layout: vortrag
-title: "Syrien"
+title: Syrien
 subtitle: 
 categories:
   - Vortrag
-description: 
+description:
 
-image: /img/namibia2/doppelloewe.jpg
-image-sm: /img/namibia2/doppelloewe.jpg
+image: /img/Syrien/syrien&Jordanien_0873kw.jpg
+image-sm: /img/Syrien/Crac des Chevaliers-kw.jpg
 ---
 
-Namibia  Teil 2: Von Swakopmund zum Sambesi
-===========================================
+Die Wiege der Menschheit
+=================================
+Diamultivisionsschau in Überblendtechnik
+
+Ein Jahr vor Ausbruch des Bürgerkrieges in Syrien konnte noch dieser Diavortrag entstehen, der all die Sehenswürdigkeiten und Attraktionen des Landes zeigt, die heute. bedingt durch die Wirren des Krieges unwiederbringlich verloren sind. 
 
 
-*Digitale Entdeckungsreise durch den Norden Namibias*
+{% include gallery.html columns=2 images="/img/Syrien/syrien&Jordanien_0771b.jpg,/img/Syrien/2.jpg" %}
 
+Syrien gehört zu den kulturgeschichtlich bedeutendsten Ländern der Welt und wird  - zumindest im religiösen  Kontext – als eine der Wiegen der Menschheit bezeichnet.  Im alten Syrien wurden die Geheimnisse des Ackerbaus und der Metallherstellung ent¬deckt, das erste Alphabet erfun¬den und märchenhafte Städte errichtet. 
 
-Auch wenn Sie den ersten Teil nicht gesehen haben, hier im zweiten Teil der Reise durch Namibia haben Sie Gelegenheit die Kunst der Buschmänner an Hand von Höhlenmalereien zu bewundern. 
+{% include gallery.html columns=3 images="/img/Syrien/3.jpg,/img/Syrien/4.jpg,/img/Syrien/5.jpg" %}
+
+Alle bedeutenden Kulturen waren hier vertreten und hinterließen ihre Spuren in Form von phantastischen Bauwerken. Begleiten Sie uns von der nabatäischen Hauptstadt Bosra nach Damaskus, der ältesten, dauerhaft besiedelten Stadt der Welt, zur schönsten Kreuzritterburg, dem Krak des Chevaliers. Von der Abgeschiedenheit des Simeon-Klosters geht es über Aleppo – berühmt für  seine Zitadelle – zu der mystischen Ruinenstadt mitten in der Wüste, nach Resafa, bevor wir die antiken Reste von Palmyra bewundern, der ehemaligen Hauptstadt der sagenumwobenen Zenobia.
+         Nehmen Sie sich noch einmal die Zeit, ein Syrien zu bewundern, wie es sich uns
+Anfang 2011 präsentierte.

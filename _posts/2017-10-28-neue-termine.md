@@ -2,16 +2,20 @@
 layout: post
 title: "Neue Termine 2018"
 categories:
-description: Es gibt neue Spanndende Termine im neuen Jahr
+description: 
 image: /img/Blume.JPG
 image-sm: /img/Agra 4181k.JPG
 ---
 
-Vorträge Indien und Namibia
---------------
-Neue Termine für meine Vorträge
+Vorträge Indien, Syrien, Asien und Namibia
+------------------------------------------
+Neue Termine und nähere Angaben über Veransatltungsorte für meine Vorträge
 
-- [Indien: Im Reich der Maharadschas](/vortrag/architektour1)
-- [Namibia: Von Windhuk nach Swakobmund](/vortrag/namibia1)
+- [Nordthailand:Lanna](/vortrag/Nordthailand)
+- [Namibia: Von Swakobmund zum Sambesi](/vortrag/namibia2)
+- [Indien: Architekt(o)ur Nordindien](/vortrag/architektour1)
+- [Indien: Im Reich der Maharadschas](/vortrag/Im Reich der Maharadschas)
+- [Syrien: Die Wiege der Mennschheit](/vortrag/syrien)
+- [Metropolen Asiens: Bangkok, Hongkong, Shanghai, Peking](/Vortrag/Metropolen)
 
 finden Sie im Bereich *Termine*.
