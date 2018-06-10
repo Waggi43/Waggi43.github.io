@@ -7,7 +7,7 @@ categories:
 description: 
 
 image: /img/indien1/sikri4k.jpg
-image-sm: /img/indien1/Agra 4181k.JPG
+image-sm: /img/indien1/Agra 4181k.jpg
 ---
 Nordthailand: Königreich Lanna
 ==================================

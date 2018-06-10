@@ -7,7 +7,7 @@ categories:
 description: 
 
 image: /img/Polen/1 Marienburg 144k.jpg
-image-sm: /img/polen/4 Danzig 015k.jpg
+image-sm: /img/Polen/4 Danzig 015k.jpg
 ---
 
 Polen: Auf den Spuren des Deutschen Ordens
