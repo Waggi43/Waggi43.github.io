@@ -10,8 +10,8 @@ image: /img/namibia1/giraffe1.jpg
 image-sm: /img/namibia1/3E.jpg
 ---
 
-Namibia: Von Windhuk nach Swakobmund
-==========================================
+Namibias wilder Süden: Gnus, Giraffen und Geparde
+=================================================
 
 *Digitale Kulturreise von Ursula und Gerhard Schwenk*
 
