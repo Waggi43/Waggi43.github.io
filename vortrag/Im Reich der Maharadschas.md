@@ -10,9 +10,11 @@ image: /img/Indien2/udaipur1.jpg
 image-sm: /img/Indien2/udaipur2.jpg
 ---
 
- Im Reich der Maharadschas
-===========================================
-*Festungen - Paläste - Tempel
+Im Reich der Maharadschas
+=========================
+
+Festungen - Paläste - Tempel
+----------------------------
 
 *Digitale Entdeckungsreise durch den Norden Indiens*
 
