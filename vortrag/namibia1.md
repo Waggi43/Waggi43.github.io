@@ -6,8 +6,8 @@ categories:
   - Vortrag
 description: 
 
-image: /img/namibia1/giraffe1.jpg
-image-sm: /img/namibia1/3E.jpg
+image: /img/Namibia1/giraffe1.jpg
+image-sm: /img/Namibia1/3E.jpg
 ---
 
 Namibias wilder Süden: Gnus, Giraffen und Geparde
