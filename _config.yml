@@ -1,5 +1,5 @@
 # Site settings
-email: g_schwenk@yahoo.com
+email: bilderreisen@die-schwenks.de
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -9,7 +9,7 @@ post_default_img: /img/see.jpg
 # SEO settings
 title: OMπ
 description: 
-url: "https://waggi43.github.io/"
+url: "http://bilderreisen.die-schwenks.de/"
 twitter_username: 
 default_img: 
 
