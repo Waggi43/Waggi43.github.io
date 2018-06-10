@@ -13,8 +13,9 @@ Architekt(o)ur Nordindien - Teil 1
 ==================================
  
 Digitale Entdeckungsreise durch den Norden Indiens
+--------------------------------------------------
 
-musikalisch untermahlt, mit Texten von Ursula und Gerhard Schwenk
+*musikalisch untermahlt, mit Texten von Ursula und Gerhard Schwenk*
 
 Lassen Sie sich mitreißen von der Pracht kultureller Sehenswürdigkeiten. Wir nehmen Sie mit in die faszinierende Welt der indischen Architektur.
 

@@ -12,9 +12,11 @@ image-sm: /img/Polen/4 Danzig 015k.jpg
 
 Polen: Auf den Spuren des Deutschen Ordens
 ==========================================
-Städte - Störche - stolze Burgen
 
-Digitale Kulturreise von Ursula und Gerhard Schwenk
+Städte - Störche - stolze Burgen
+--------------------------------
+
+*Digitale Kulturreise von Ursula und Gerhard Schwenk*
 
 Ermland und Masuren – also der südliche Teil des ehemaligen Ostpreußens – ist der Schwerpunkt dieser Reise durch Polen. Das schlesische Breslau am Fuße des Sudetengebirges ist unser Ausgangspunkt. 
 Nach einem kurzen Besuch in Posen erreichen wir das mittelalterliche Thorn – eine Gründung der Deutschen Ordensritter aus dem Jahre 1231. Auf ihren Spuren erkunden wir die imposanten, backsteingemauerten Klosterhochburgen mit ihrem Epizentrum, der Marienburg an der Nogat. 
