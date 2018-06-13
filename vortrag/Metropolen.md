@@ -6,8 +6,8 @@ categories:
   - Vortrag
 description:
 
-image: /img/Metropolen/moench.jpg
-image-sm: /img/Syrien/Crac des Chevaliers-kw.jpg
+image: /img/Metropolen/scan605schmal.jpg
+image-sm: /img/Metropolen/scan611.jpg
 ---
 
 Metropolen Asiens: Bangkok, Hongkong, Shanghai, Peking

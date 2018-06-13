@@ -3,7 +3,7 @@ layout: post
 title: "Ankündigung"
 categories:
 description: 
-image: /img/Blume.JPG
+image: /img/indien2/P.2064.jpg
 image-sm: /
 ---
 

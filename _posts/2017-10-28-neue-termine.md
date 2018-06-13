@@ -11,7 +11,7 @@ Vorträge Indien, Syrien, Asien und Namibia
 ------------------------------------------
 Neue Termine und nähere Angaben über Veransatltungsorte für meine Vorträge
 
-- [Nordthailand:Lanna](/vortrag/Nordthailand)
+- [Good morning Kambodscha](/vortrag/Kambodscha)
 - [Namibia: Von Swakobmund zum Sambesi](/vortrag/namibia2)
 - [Indien: Architekt(o)ur Nordindien](/vortrag/architektour1)
 - [Indien: Im Reich der Maharadschas](/vortrag/Im Reich der Maharadschas)
