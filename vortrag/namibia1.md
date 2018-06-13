@@ -1,13 +1,13 @@
 ---
 layout: vortrag
 title: "Namibia Teil 1"
-subtitle: 
+subtitle: "Der vwilde Süden"
 categories:
   - Vortrag
 description: 
 
-image: /img/namibia1/giraffe1.jpg
-image-sm: /img/namibia1/3E.jpg
+image: /img/Namibia1/giraffe1.jpg
+image-sm: /img/Namibia1/3E.jpg
 ---
 
 Namibias wilder Süden: Gnus, Giraffen und Geparde
@@ -29,7 +29,7 @@ Bevor wir unser letztes Ziel, Swakopmund erreichen, mit seiner riesigen  Robbenk
 [kolmanskuppe]: /img/Namibia1/P1020019wzk.jpg
 [duenen]: /img/Namibia1/P1020355wzk.jpg
 [loewe]: /img/Namibia1/P1030574-ausschnittwz.jpg
-[robben]: /img/Namibia1/P1020982wzk.jpg
+[robben]: /img/Namibia1/P1020982wz.jpg
 [flamingo]:/img/Namibia1/P1020096wzk.jpg
 [welwitschia]:/img/Namibia1/P1030269wzk.jpg
 

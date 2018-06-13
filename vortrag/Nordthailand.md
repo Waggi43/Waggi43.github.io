@@ -6,17 +6,28 @@ categories:
   - Vortrag
 description: 
 
+<<<<<<< HEAD
 image: /img/thailand/moench-schmal.jpg
 image-sm: /img/thailand/stupa-400-k.jpg
+=======
+image: /img/indien1/sikri4k.jpg
+image-sm: /img/indien1/Agra 4181k.jpg
+>>>>>>> 3d1873a00d51ed43b3a94b65102848d872e66047
 ---
 Nordthailand: Königreich Lanna
 ==================================
  
 Digitale Entdeckungsreise durch den Norden Thailands
+----------------------------------------------------
 
+<<<<<<< HEAD
 Lichtbildervortrag in Überblendtechnik
 von Ursula und Gerhard Schwenk,
 Voll vertont
+=======
+*Lichtbildervortrag in Überblendtechnik
+von Ursula und Gerhard Schwenk - Voll vertont*
+>>>>>>> 3d1873a00d51ed43b3a94b65102848d872e66047
 
 Die Nordprovinz von Thailand gehört zu den faszinierendsten Regionen des Landes. Hier gibt es eine abwechslungsreiche Landschaft, die höchsten Berge und breite, fruchtbare Täler. 
 {% include gallery.html columns=3 images="/img/thailand/scan614kw.jpg,/img/thailand/scan615kw.jpg,/img/thailand/scan616kw.jpg" %}

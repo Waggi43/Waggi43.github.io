@@ -12,7 +12,8 @@ image-sm: /img/Metropolen/scan611.jpg
 
 Metropolen Asiens: Bangkok, Hongkong, Shanghai, Peking
 ======================================================
-Diamultivisionsschau in Überblendtechnik
+
+*Diamultivisionsschau in Überblendtechnik*
 
 Unternehmen Sie mit uns eine Städtefahrt von Thailand nach China, von Bangkok über Hongkong, Shanghai nach Peking.
 Bangkok beeindruckt durch seine unzähligen Klosteranlagen, die in hellem Gold erstrahlen und unermessliche Schätze beinhalten.

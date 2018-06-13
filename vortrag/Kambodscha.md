@@ -1,7 +1,7 @@
 ---
 layout: vortrag
 title: "Kambodscha"
-subtitle: 
+subtitle: "Angkor"
 categories:
   - Vortrag
 description: 
@@ -10,15 +10,11 @@ image: /img/Kambodscha/scan637.jpg
 image-sm: /img/Kambodscha/scan639.jpg
 ---
 
-Good morning Kambodja - das versunkene Juwel im Dschungel
-=================================================
+Good morning Kambodja - Angkor, das versunkene Juwel im Dschungel
+=====================
 
 *Digitale Kulturreise von Ursula und Gerhard Schwenk*
 
-Nehmen Sie teil an unserer Reise und entdecken Sie mit uns ein phantastisches Land, das nicht nur wegen seiner Tierwelt, sondern auch wegen seiner einmaligen Landschaft weltweit berühmt ist. 
-
-Das erste Highlight ist - ganz im Süden des Landes - der Fish-River-Canyon, ein geologischer Leckerbissen mit einer sehr eigenwilligen Flora, bevor wir eine Geisterstadt erreichen,  Kolmanskuppe, ehemaliges  Diamantenzentrum des Deutschen Reiches. 
-
-Auf dem Weg ins Sossusvlei - die berühmten roten Dünen Namibias und alleine schon eine Reise wert - treffen wir auf Elefanten, Giraffen, Antilopen und Geparde und auf eine der seltensten Pflanzen, die Welwitschia mirabilis. 
-
-Bevor wir unser letztes Ziel, Swakopmund erreichen, mit seiner riesigen  Robbenkolonie, lassen wir uns am Diaz Point in Lüderitz  von rosa Flamingos verzaubern. .
+Glücklicherweise hat der lange und blutige Bürgerkrieg in Kambodscha ein Ende gefunden und viele Gebiete sind wieder gefahrlos für Touristen geöffnet. Eine Reise durch Kambodscha stimmt wieder zuversichtlich. 
+Von Sihanoukville – unserem südlichen Ausgangspunkt – über die Hauptstadt Phnom Penh, nach Battambang bis hinauf in den Norden – nach Siem Reap – haben die Menschen ihr Lächeln bewahrt, wie die himmlischen Tänzerinnen in ihren verfallenen, steinernen Heiligtümern in Angkor Vat, das wir am Ende unserer Reise besuchen.
+Vor mehr als 1000 Jahren wurde tief im Dschungel von Kambodscha eine Zivilisation geboren, die die größten und schönsten Tempel hervorbrachte, die die Welt je gesehen hat, die Tempel von Angkor. Die Khmer, Erbauer dieser phantastischen Anlage, sind in unserem Be¬wußtsein erstrangig als die Roten Khmer mit den trau¬rigen Ereignissen der jüngsten Vergangenheit ver¬knüpft und wenig ist uns geläufig über ein Imperium, das einst große Teile Südostasiens beherrschte. 

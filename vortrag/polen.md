@@ -6,15 +6,22 @@ categories:
   - Vortrag
 description: 
 
+<<<<<<< HEAD
 image: /img/Polen/Marienburg146schmal.jpg
 image-sm: /img/polen/Danzig015k.jpg
+=======
+image: /img/Polen/1 Marienburg 144k.jpg
+image-sm: /img/Polen/4 Danzig 015k.jpg
+>>>>>>> 3d1873a00d51ed43b3a94b65102848d872e66047
 ---
 
 Polen: Auf den Spuren des Deutschen Ordens
 ==========================================
-Städte - Störche - stolze Burgen
 
-Digitale Kulturreise von Ursula und Gerhard Schwenk
+Städte - Störche - stolze Burgen
+--------------------------------
+
+*Digitale Kulturreise von Ursula und Gerhard Schwenk*
 
 Ermland und Masuren – also der südliche Teil des ehemaligen Ostpreußens – ist der Schwerpunkt dieser Reise durch Polen. Das schlesische Breslau am Fuße des Sudetengebirges ist unser Ausgangspunkt. 
 Nach einem kurzen Besuch in Posen erreichen wir das mittelalterliche Thorn – eine Gründung der Deutschen Ordensritter aus dem Jahre 1231. Auf ihren Spuren erkunden wir die imposanten, backsteingemauerten Klosterhochburgen mit ihrem Epizentrum, der Marienburg an der Nogat. 
