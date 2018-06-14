@@ -4,7 +4,7 @@ title: "Ankündigung"
 date:   2018-06-01 07:00:00 +0200
 categories:
 description: 
-image: /img/Blume.JPG
+image: /img/indien2/P.2064.jpg
 image-sm: /
 ---
 

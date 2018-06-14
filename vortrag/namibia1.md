@@ -1,7 +1,7 @@
 ---
 layout: vortrag
 title: "Namibia Teil 1"
-subtitle: 
+subtitle: "Der vwilde Süden"
 categories:
   - Vortrag
 description: 
