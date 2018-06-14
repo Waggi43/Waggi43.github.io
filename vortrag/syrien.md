@@ -1,7 +1,7 @@
 ---
 layout: vortrag
 title: Syrien
-subtitle: 
+subtitle: Die Wiege der Menschheit
 categories:
   - Vortrag
 description:
@@ -10,8 +10,8 @@ image: /img/Syrien/syrien&Jordanien_0873kw.jpg
 image-sm: /img/Syrien/Crac des Chevaliers-kw.jpg
 ---
 
-Die Wiege der Menschheit
-========================
+Die Wiege der Menschheit - Syrien
+=================================
 
 *Diamultivisionsschau in Überblendtechnik*
 
