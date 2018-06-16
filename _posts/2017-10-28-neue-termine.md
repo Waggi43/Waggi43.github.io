@@ -4,7 +4,7 @@ title: "Neue Termine 2018"
 date:   2018-06-10 07:00:00 +0200
 categories:
 description: 
-image: /img/buddha3k.jpg
+image: 
 image-sm: 
 
 Vorträge Indien, Syrien, Asien und Namibia
