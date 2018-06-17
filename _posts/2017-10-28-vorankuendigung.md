@@ -12,8 +12,8 @@ Auch unser dritter Indien-Urlaub war eine Reise der Superlative. Zurück mit spe
 
 Freuen Sie sich auf:
 
-Indien - indisch, Highlights abseits der Touristenpfade.
--------------------------------------------------------------------
+Das Lächeln der Kamele von Khajuraho, Highlights abseits der Touristenpfade.
+---------------------------------------------------------------------------
 --------------
 Voraussichtlicher Erscheinungstermin: Sommersemester 2019
 
