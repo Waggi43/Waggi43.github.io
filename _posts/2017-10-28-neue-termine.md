@@ -4,9 +4,9 @@ title: "Neue Termine 2018"
 date:   2018-06-10 07:00:00 +0200
 categories:
 description: 
-image: 
-image-sm: 
-
+image: /img/indien1/agra2.jpg
+image-sm: /img/Lo/scan281k.jpg
+---
 Vorträge Indien, Syrien, Asien und Namibia
 ------------------------------------------
 Neue Termine und nähere Angaben über Veransatltungsorte für meine Vorträge
