@@ -15,6 +15,6 @@ Freuen Sie sich auf:
 Das Lächeln der Kamele von Khajuraho, Highlights abseits der Touristenpfade.
 ---------------------------------------------------------------------------
 --------------
-Voraussichtlicher Erscheinungstermin: Sommersemester 2019
+Voraussichtlicher Erscheinungstermin: Februar 2019
 
 

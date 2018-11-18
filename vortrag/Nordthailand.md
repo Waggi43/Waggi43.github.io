@@ -1,6 +1,6 @@
 ---
 layout: vortrag
-title: "Nordthailand"
+title: "Die lächelnden Elefanten von Khajuraho"
 subtitle: 
 categories:
   - Vortrag
@@ -9,19 +9,13 @@ description:
 image: /img/thailand/moench-schmal.jpg
 image-sm: /img/thailand/stupa-400-k.jpg
 ---
-Nordthailand: Königreich Lanna
-==================================
+Die lächelnden Elefanten von Khajuraho
+======================================
  
-Digitale Entdeckungsreise durch den Norden Thailands
+Indian Highlights, abseits der Touristenstrassen
 ----------------------------------------------------
 
-*Lichtbildervortrag in Überblendtechnik
+*Digitale Kulturreise*
 von Ursula und Gerhard Schwenk, voll vertont*
 
-Die Nordprovinz von Thailand gehört zu den faszinierendsten Regionen des Landes. Hier gibt es eine abwechslungsreiche Landschaft, die höchsten Berge und breite, fruchtbare Täler. 
-{% include gallery.html columns=3 images="/img/thailand/scan614kw.jpg,/img/thailand/scan615kw.jpg,/img/thailand/scan616kw.jpg" %}
-Reisen Sie mit uns zum Goldene Dreieck, jenem berüchtigten Areal an den Grenzen zu Myanmar und Laos, haben Sie Einblick in die Frühgeschichte des Landes, als vor mehr als 6000 Jahren die ersten Siedler diesen Boden betraten, lernen Sie die Sitten und Gebräuche der Thais beim Lichterfest kennen, bewundern Sie die Frauen der Padaung, deren Schönheitsideal in der
-Verlängerung des Halses besteht und besuchen Sie ein Elefantencamp an der Grenze zu Myanmar.
-{% include gallery.html columns=3 images="/img/thailand/scan635kw.jpg,/img/thailand/scan629kw.jpg,/img/thailand/scan633kw.jpg" %}
-{% include gallery.html columns=2 images="/img/thailand/scan627kw.jpg,/img/thailand/scan626kw.jpg" %}
-Daneben gibt der Vortrag eine Einführung in die sakrale, buddhistische Architektur an ausgewählten Beispielen.
+Die Staaten Gujarat, Madhya Prasesh und Maharashtra im Herzen Indiens gelegen bieten wohl ein einmaliges Spektrum indischer Kulturschätze die, im Gegensatz zu Rajasthan, oftmals weit abseits der touristischen Hauptverkehrswege liegen. In Varanasi, dem ältesten hinduistischen Wallfahrtsort mischen wir uns unter die Pilger; keine Stadt kann die Vergangenheit und Altertümlichkeit von Varanasi in Anspruch nehmen. Khajuraho, weit entfernt von allen Großstädten bleibt nach wie vor ein Rätsel für die Kunsthistoriker. Seine Tempel besitzen ein Vielfalt erotischer Bildhauereien, deren Ausstrahlung und vollkommene Harmonie im ganzen Land konkurrenzlos sind. Die buddhistischen Höhlen von Ajanta, irgendwo im Nirgendwo gelegen, sind für ihre Wandmalereien berühmt, die auch ihre Begeisterung erwecken werden, genauso wie die Höhlen von Ellora, die ein perfektes Bild der Künste am Beginn des Mittelalters vermitteln: Prachtskulpturen, Reliefs und Monolitharchitektrur mit dem berühmten Kailash-Tempel. Sanchi, der besterhaltene Stupakomplex ganz Indiens, besticht mit der Klarheit seiner Formen und führt uns ins zweite vorchristliche Jahrhundert. Eines der Meisterwerke der Gujarati-Architektur und der Ziselierkunst entdecken wir in Modhera, den Sonnentempel, der Surya, der ältesten Gottheit des hinduistischen Pantheons geweiht ist. Aber nicht nur große Namen versprechen außergewöhnliche Eindrücke, lassen sie sich faszinieren von den vielen namenlosen Bauwerken entlang unserer 4000 km langen Reiseroute und von den Menschen, die uns aufgeschlossen und immer freundlich begegnet sind. 
