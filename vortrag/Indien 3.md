@@ -7,7 +7,7 @@ categories:
 description: 
 
 image: /img/Indien3/P0000382-Osian-k.jpg
-image-sm: /img/Indien3/P0000389-Osian-Torana.jpg.jpg
+image-sm: /img/Indien3/P0000389-Osian-Torana.jpg
 ---
 Die lächelnden Elefanten von Khajuraho
 ====================================== 
