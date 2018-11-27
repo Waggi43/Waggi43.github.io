@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Termine 2018 / 2019"
-date:   2018-10-23 07:00:00 +0200
+date:   2018-11-27 07:00:00 +0200
 categories:
 description: 
 image: /img/indien1/agra2.jpg

@@ -1,6 +1,6 @@
 ---
 layout: vortrag
-title: "Indien 3"
+title: "Die lächelnden Elefanten von Khajuraho"
 subtitle: 
 categories:
   - Vortrag
@@ -9,14 +9,14 @@ description:
 image: /img/Indien3/P0000382-Osian-k.jpg
 image-sm: /img/Indien3/P0000389-Osian-Torana.jpg
 ---
+
 Die lächelnden Elefanten von Khajuraho
 ====================================== 
  
 Indian Highlights, abseits touristischer Pfade
 ----------------------------------------------
 
-*Digitale Kulturreise*
-von Ursula und Gerhard Schwenk, voll vertont*
+*Digitale Kulturreise von Ursula und Gerhard Schwenk, voll vertont*
 
 Die Staaten Gujarat, Madhya Prasesh und Maharashtra im Herzen Indiens gelegen bieten wohl ein einmaliges Spektrum indischer Kulturschätze die, im Gegensatz zu Rajasthan, oftmals weit abseits der touristischen Hauptverkehrswege liegen. In Varanasi, dem ältesten hinduistischen Wallfahrtsort mischen wir uns unter die Pilger; keine Stadt kann die Vergangenheit und Altertümlichkeit von Varanasi in Anspruch nehmen. Khajuraho, weit entfernt von allen Großstädten bleibt nach wie vor ein Rätsel für die Kunsthistoriker. 
 {% include gallery.html columns=3 images="/img/Indien3/P1010189-Sanchi-Stupa1-9-k.jpg,/img/Indien3/P0000662-Kota-kinder.jpg,/img/Indien3/P1010359-Gyaraspur-Maladevi Tempel.JPG" %}
